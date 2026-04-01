@@ -205,11 +205,11 @@ After completing all TODOs, test your calculator:
   node calculator.js multiply 2 3 4
   Expected output: Result: 24
 
-  node calculator.js divide 20 2 5
+   node calculator.js divide 20 2 5
   Expected output: Result: 2
 
   node calculator.js invalid 1 2 3
-  Expected output: Invalid operation. Use: add, subtract, multiply, or divide
+  Expected  output: Invalid operation. Use: add, subtract, multiply, or divide
 
 */
 
